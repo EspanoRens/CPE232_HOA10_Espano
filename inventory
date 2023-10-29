@@ -1,0 +1,9 @@
+[elasticsearch]
+192.168.56.123
+192.168.56.124 ansible_python_interpreter=/usr/bin/python2
+[kibana]
+192.168.56.123
+192.168.56.124 ansible_python_interpreter=/usr/bin/python2
+[logstash]
+192.168.56.123
+192.168.56.124 ansible_python_interpreter=/usr/bin/python2
